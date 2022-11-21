@@ -77,7 +77,8 @@ select * from test_table;
 1) Созданной базы данных;
 2) Результата вывода команды на реплике ```select * from test_table;```.
 
-
+![alt text](https://github.com/vasev85/bd_cloud/blob/main/2.png?raw=true)   
+![alt text](https://github.com/vasev85/bd_cloud/blob/main/1.png?raw=true) 
 
 ### Задание 2*
 
